@@ -1,0 +1,9 @@
+C:\Users\WeCanCodeIT\Desktop\WCCI Learn Practices\codeeval_rightmostChar\bin\Debug\codeeval_rightmostChar.exe.config
+C:\Users\WeCanCodeIT\Desktop\WCCI Learn Practices\codeeval_rightmostChar\bin\Debug\codeeval_rightmostChar.exe
+C:\Users\WeCanCodeIT\Desktop\WCCI Learn Practices\codeeval_rightmostChar\bin\Debug\codeeval_rightmostChar.pdb
+C:\Users\WeCanCodeIT\Desktop\WCCI Learn Practices\codeeval_rightmostChar\obj\Debug\codeeval_rightmostChar.csprojResolveAssemblyReference.cache
+C:\Users\WeCanCodeIT\Desktop\WCCI Learn Practices\codeeval_rightmostChar\obj\Debug\codeeval_rightmostChar.exe
+C:\Users\WeCanCodeIT\Desktop\WCCI Learn Practices\codeeval_rightmostChar\obj\Debug\codeeval_rightmostChar.pdb
+C:\Users\WeCanCodeIT\Desktop\CodeEval challenges\codeeval_rightmostChar\bin\Debug\codeeval_rightmostChar.exe.config
+C:\Users\WeCanCodeIT\Desktop\CodeEval challenges\codeeval_rightmostChar\obj\Debug\codeeval_rightmostChar.exe
+C:\Users\WeCanCodeIT\Desktop\CodeEval challenges\codeeval_rightmostChar\obj\Debug\codeeval_rightmostChar.pdb

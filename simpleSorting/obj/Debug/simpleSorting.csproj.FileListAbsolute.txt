@@ -1,0 +1,6 @@
+C:\Users\WeCanCodeIT\Desktop\CodeEval challenges\simpleSorting\bin\Debug\simpleSorting.exe.config
+C:\Users\WeCanCodeIT\Desktop\CodeEval challenges\simpleSorting\bin\Debug\simpleSorting.exe
+C:\Users\WeCanCodeIT\Desktop\CodeEval challenges\simpleSorting\bin\Debug\simpleSorting.pdb
+C:\Users\WeCanCodeIT\Desktop\CodeEval challenges\simpleSorting\obj\Debug\simpleSorting.csprojResolveAssemblyReference.cache
+C:\Users\WeCanCodeIT\Desktop\CodeEval challenges\simpleSorting\obj\Debug\simpleSorting.exe
+C:\Users\WeCanCodeIT\Desktop\CodeEval challenges\simpleSorting\obj\Debug\simpleSorting.pdb

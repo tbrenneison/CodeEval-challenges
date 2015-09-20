@@ -1,0 +1,6 @@
+C:\Users\WeCanCodeIT\Desktop\CodeEval challenges\ageDistribution\bin\Debug\ageDistribution.exe.config
+C:\Users\WeCanCodeIT\Desktop\CodeEval challenges\ageDistribution\bin\Debug\ageDistribution.exe
+C:\Users\WeCanCodeIT\Desktop\CodeEval challenges\ageDistribution\bin\Debug\ageDistribution.pdb
+C:\Users\WeCanCodeIT\Desktop\CodeEval challenges\ageDistribution\obj\Debug\ageDistribution.csprojResolveAssemblyReference.cache
+C:\Users\WeCanCodeIT\Desktop\CodeEval challenges\ageDistribution\obj\Debug\ageDistribution.exe
+C:\Users\WeCanCodeIT\Desktop\CodeEval challenges\ageDistribution\obj\Debug\ageDistribution.pdb

@@ -1,0 +1,9 @@
+C:\Users\WeCanCodeIT\Desktop\WCCI Learn Practices\codeeval_reversewords\codeeval_reversewords\bin\Debug\codeeval_reversewords.exe.config
+C:\Users\WeCanCodeIT\Desktop\WCCI Learn Practices\codeeval_reversewords\codeeval_reversewords\bin\Debug\codeeval_reversewords.exe
+C:\Users\WeCanCodeIT\Desktop\WCCI Learn Practices\codeeval_reversewords\codeeval_reversewords\bin\Debug\codeeval_reversewords.pdb
+C:\Users\WeCanCodeIT\Desktop\WCCI Learn Practices\codeeval_reversewords\codeeval_reversewords\obj\Debug\codeeval_reversewords.csprojResolveAssemblyReference.cache
+C:\Users\WeCanCodeIT\Desktop\WCCI Learn Practices\codeeval_reversewords\codeeval_reversewords\obj\Debug\codeeval_reversewords.exe
+C:\Users\WeCanCodeIT\Desktop\WCCI Learn Practices\codeeval_reversewords\codeeval_reversewords\obj\Debug\codeeval_reversewords.pdb
+C:\Users\WeCanCodeIT\Desktop\CodeEval challenges\codeeval_reversewords\codeeval_reversewords\bin\Debug\codeeval_reversewords.exe.config
+C:\Users\WeCanCodeIT\Desktop\CodeEval challenges\codeeval_reversewords\codeeval_reversewords\obj\Debug\codeeval_reversewords.exe
+C:\Users\WeCanCodeIT\Desktop\CodeEval challenges\codeeval_reversewords\codeeval_reversewords\obj\Debug\codeeval_reversewords.pdb

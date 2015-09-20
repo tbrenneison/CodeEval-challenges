@@ -1,0 +1,6 @@
+C:\Users\WeCanCodeIT\Desktop\CodeEval challenges\findTheWriter\bin\Debug\findTheWriter.exe.config
+C:\Users\WeCanCodeIT\Desktop\CodeEval challenges\findTheWriter\bin\Debug\findTheWriter.exe
+C:\Users\WeCanCodeIT\Desktop\CodeEval challenges\findTheWriter\bin\Debug\findTheWriter.pdb
+C:\Users\WeCanCodeIT\Desktop\CodeEval challenges\findTheWriter\obj\Debug\findTheWriter.csprojResolveAssemblyReference.cache
+C:\Users\WeCanCodeIT\Desktop\CodeEval challenges\findTheWriter\obj\Debug\findTheWriter.exe
+C:\Users\WeCanCodeIT\Desktop\CodeEval challenges\findTheWriter\obj\Debug\findTheWriter.pdb

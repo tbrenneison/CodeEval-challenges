@@ -1,0 +1,6 @@
+C:\Users\WeCanCodeIT\Desktop\CodeEval challenges\mthToLastElement\bin\Debug\mthToLastElement.exe.config
+C:\Users\WeCanCodeIT\Desktop\CodeEval challenges\mthToLastElement\obj\Debug\mthToLastElement.csprojResolveAssemblyReference.cache
+C:\Users\WeCanCodeIT\Desktop\CodeEval challenges\mthToLastElement\bin\Debug\mthToLastElement.exe
+C:\Users\WeCanCodeIT\Desktop\CodeEval challenges\mthToLastElement\bin\Debug\mthToLastElement.pdb
+C:\Users\WeCanCodeIT\Desktop\CodeEval challenges\mthToLastElement\obj\Debug\mthToLastElement.exe
+C:\Users\WeCanCodeIT\Desktop\CodeEval challenges\mthToLastElement\obj\Debug\mthToLastElement.pdb
