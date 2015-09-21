@@ -1,0 +1,6 @@
+C:\Users\WeCanCodeIT\Desktop\CodeEval challenges\timeToEat\bin\Debug\timeToEat.exe.config
+C:\Users\WeCanCodeIT\Desktop\CodeEval challenges\timeToEat\bin\Debug\timeToEat.exe
+C:\Users\WeCanCodeIT\Desktop\CodeEval challenges\timeToEat\bin\Debug\timeToEat.pdb
+C:\Users\WeCanCodeIT\Desktop\CodeEval challenges\timeToEat\obj\Debug\timeToEat.csprojResolveAssemblyReference.cache
+C:\Users\WeCanCodeIT\Desktop\CodeEval challenges\timeToEat\obj\Debug\timeToEat.exe
+C:\Users\WeCanCodeIT\Desktop\CodeEval challenges\timeToEat\obj\Debug\timeToEat.pdb
