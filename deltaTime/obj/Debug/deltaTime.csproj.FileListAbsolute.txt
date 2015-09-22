@@ -1,0 +1,6 @@
+C:\Users\WeCanCodeIT\Desktop\CodeEval challenges\deltaTime\bin\Debug\deltaTime.exe.config
+C:\Users\WeCanCodeIT\Desktop\CodeEval challenges\deltaTime\bin\Debug\deltaTime.exe
+C:\Users\WeCanCodeIT\Desktop\CodeEval challenges\deltaTime\bin\Debug\deltaTime.pdb
+C:\Users\WeCanCodeIT\Desktop\CodeEval challenges\deltaTime\obj\Debug\deltaTime.csprojResolveAssemblyReference.cache
+C:\Users\WeCanCodeIT\Desktop\CodeEval challenges\deltaTime\obj\Debug\deltaTime.exe
+C:\Users\WeCanCodeIT\Desktop\CodeEval challenges\deltaTime\obj\Debug\deltaTime.pdb

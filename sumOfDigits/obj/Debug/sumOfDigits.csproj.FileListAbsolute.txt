@@ -1,0 +1,6 @@
+C:\Users\WeCanCodeIT\Desktop\CodeEval challenges\sumOfDigits\bin\Debug\sumOfDigits.exe.config
+C:\Users\WeCanCodeIT\Desktop\CodeEval challenges\sumOfDigits\bin\Debug\sumOfDigits.exe
+C:\Users\WeCanCodeIT\Desktop\CodeEval challenges\sumOfDigits\bin\Debug\sumOfDigits.pdb
+C:\Users\WeCanCodeIT\Desktop\CodeEval challenges\sumOfDigits\obj\Debug\sumOfDigits.csprojResolveAssemblyReference.cache
+C:\Users\WeCanCodeIT\Desktop\CodeEval challenges\sumOfDigits\obj\Debug\sumOfDigits.exe
+C:\Users\WeCanCodeIT\Desktop\CodeEval challenges\sumOfDigits\obj\Debug\sumOfDigits.pdb

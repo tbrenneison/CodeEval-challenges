@@ -1,0 +1,5 @@
+C:\Users\WeCanCodeIT\Desktop\CodeEval challenges\capitalizeWords\bin\Debug\capitalizeWords.exe.config
+C:\Users\WeCanCodeIT\Desktop\CodeEval challenges\capitalizeWords\bin\Debug\capitalizeWords.exe
+C:\Users\WeCanCodeIT\Desktop\CodeEval challenges\capitalizeWords\bin\Debug\capitalizeWords.pdb
+C:\Users\WeCanCodeIT\Desktop\CodeEval challenges\capitalizeWords\obj\Debug\capitalizeWords.exe
+C:\Users\WeCanCodeIT\Desktop\CodeEval challenges\capitalizeWords\obj\Debug\capitalizeWords.pdb
