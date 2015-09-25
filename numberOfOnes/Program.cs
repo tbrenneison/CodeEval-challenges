@@ -22,15 +22,15 @@ namespace numberOfOnes
 
             string binary = Convert.ToString(parsed, 2); //converts int to binary string
 
-            StringBuilder counter = new StringBuilder(); 
+            int counter = 0; 
 
             foreach(char one in binary)
             {
                 if(one == '1')
-                { counter.Append("1"); }
+                { counter++; }
             }
-
-            Console.WriteLine(counter.ToString().Length);
+      
+            Console.WriteLine(counter);
 
         } //end of main method 
     }
