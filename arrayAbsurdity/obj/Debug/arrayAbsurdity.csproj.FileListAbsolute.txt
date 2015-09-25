@@ -1,0 +1,6 @@
+C:\Users\WeCanCodeIT\Desktop\CodeEval challenges\arrayAbsurdity\bin\Debug\arrayAbsurdity.exe.config
+C:\Users\WeCanCodeIT\Desktop\CodeEval challenges\arrayAbsurdity\bin\Debug\arrayAbsurdity.exe
+C:\Users\WeCanCodeIT\Desktop\CodeEval challenges\arrayAbsurdity\bin\Debug\arrayAbsurdity.pdb
+C:\Users\WeCanCodeIT\Desktop\CodeEval challenges\arrayAbsurdity\obj\Debug\arrayAbsurdity.csprojResolveAssemblyReference.cache
+C:\Users\WeCanCodeIT\Desktop\CodeEval challenges\arrayAbsurdity\obj\Debug\arrayAbsurdity.exe
+C:\Users\WeCanCodeIT\Desktop\CodeEval challenges\arrayAbsurdity\obj\Debug\arrayAbsurdity.pdb

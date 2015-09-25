@@ -1,0 +1,6 @@
+C:\Users\WeCanCodeIT\Desktop\CodeEval challenges\lowercase\bin\Debug\lowercase.exe.config
+C:\Users\WeCanCodeIT\Desktop\CodeEval challenges\lowercase\obj\Debug\lowercase.csprojResolveAssemblyReference.cache
+C:\Users\WeCanCodeIT\Desktop\CodeEval challenges\lowercase\bin\Debug\lowercase.exe
+C:\Users\WeCanCodeIT\Desktop\CodeEval challenges\lowercase\bin\Debug\lowercase.pdb
+C:\Users\WeCanCodeIT\Desktop\CodeEval challenges\lowercase\obj\Debug\lowercase.exe
+C:\Users\WeCanCodeIT\Desktop\CodeEval challenges\lowercase\obj\Debug\lowercase.pdb

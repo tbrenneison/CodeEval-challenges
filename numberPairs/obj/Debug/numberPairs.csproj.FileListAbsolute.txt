@@ -1,0 +1,6 @@
+C:\Users\WeCanCodeIT\Desktop\CodeEval challenges\numberPairs\bin\Debug\numberPairs.exe.config
+C:\Users\WeCanCodeIT\Desktop\CodeEval challenges\numberPairs\bin\Debug\numberPairs.exe
+C:\Users\WeCanCodeIT\Desktop\CodeEval challenges\numberPairs\bin\Debug\numberPairs.pdb
+C:\Users\WeCanCodeIT\Desktop\CodeEval challenges\numberPairs\obj\Debug\numberPairs.csprojResolveAssemblyReference.cache
+C:\Users\WeCanCodeIT\Desktop\CodeEval challenges\numberPairs\obj\Debug\numberPairs.exe
+C:\Users\WeCanCodeIT\Desktop\CodeEval challenges\numberPairs\obj\Debug\numberPairs.pdb
