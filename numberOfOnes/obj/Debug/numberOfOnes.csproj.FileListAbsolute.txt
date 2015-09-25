@@ -1,0 +1,5 @@
+C:\Users\WeCanCodeIT\Desktop\CodeEval challenges\numberOfOnes\bin\Debug\numberOfOnes.exe.config
+C:\Users\WeCanCodeIT\Desktop\CodeEval challenges\numberOfOnes\bin\Debug\numberOfOnes.exe
+C:\Users\WeCanCodeIT\Desktop\CodeEval challenges\numberOfOnes\bin\Debug\numberOfOnes.pdb
+C:\Users\WeCanCodeIT\Desktop\CodeEval challenges\numberOfOnes\obj\Debug\numberOfOnes.exe
+C:\Users\WeCanCodeIT\Desktop\CodeEval challenges\numberOfOnes\obj\Debug\numberOfOnes.pdb

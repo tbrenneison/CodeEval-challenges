@@ -1,0 +1,5 @@
+C:\Users\WeCanCodeIT\Desktop\CodeEval challenges\hexToDecimal\bin\Debug\hexToDecimal.exe.config
+C:\Users\WeCanCodeIT\Desktop\CodeEval challenges\hexToDecimal\bin\Debug\hexToDecimal.exe
+C:\Users\WeCanCodeIT\Desktop\CodeEval challenges\hexToDecimal\bin\Debug\hexToDecimal.pdb
+C:\Users\WeCanCodeIT\Desktop\CodeEval challenges\hexToDecimal\obj\Debug\hexToDecimal.exe
+C:\Users\WeCanCodeIT\Desktop\CodeEval challenges\hexToDecimal\obj\Debug\hexToDecimal.pdb
