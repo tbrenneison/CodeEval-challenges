@@ -1,1 +1,6 @@
 C:\Users\WeCanCodeIT\Desktop\CodeEval challenges\bitPositions\bin\Debug\bitPositions.exe.config
+C:\Users\WeCanCodeIT\Desktop\CodeEval challenges\bitPositions\bin\Debug\bitPositions.exe
+C:\Users\WeCanCodeIT\Desktop\CodeEval challenges\bitPositions\bin\Debug\bitPositions.pdb
+C:\Users\WeCanCodeIT\Desktop\CodeEval challenges\bitPositions\obj\Debug\bitPositions.csprojResolveAssemblyReference.cache
+C:\Users\WeCanCodeIT\Desktop\CodeEval challenges\bitPositions\obj\Debug\bitPositions.exe
+C:\Users\WeCanCodeIT\Desktop\CodeEval challenges\bitPositions\obj\Debug\bitPositions.pdb
