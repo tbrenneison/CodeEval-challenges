@@ -14,9 +14,7 @@ namespace swapCase
 
             StringBuilder newCase = new StringBuilder();
 
-            char[] chars = line.ToCharArray(); //convert line to char[]
-
-            foreach(char c in chars) //check if upper/lower case, convert and append to StringBuilder
+            foreach(char c in line) //check if upper/lower case, convert and append to StringBuilder
             {
                 if (char.IsUpper(c))
                 { newCase.Append(char.ToLower(c)); }
