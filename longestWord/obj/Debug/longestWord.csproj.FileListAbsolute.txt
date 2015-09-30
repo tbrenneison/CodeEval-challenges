@@ -1,0 +1,6 @@
+C:\Users\WeCanCodeIT\Desktop\CodeEval challenges\longestWord\bin\Debug\longestWord.exe.config
+C:\Users\WeCanCodeIT\Desktop\CodeEval challenges\longestWord\bin\Debug\longestWord.exe
+C:\Users\WeCanCodeIT\Desktop\CodeEval challenges\longestWord\bin\Debug\longestWord.pdb
+C:\Users\WeCanCodeIT\Desktop\CodeEval challenges\longestWord\obj\Debug\longestWord.csprojResolveAssemblyReference.cache
+C:\Users\WeCanCodeIT\Desktop\CodeEval challenges\longestWord\obj\Debug\longestWord.exe
+C:\Users\WeCanCodeIT\Desktop\CodeEval challenges\longestWord\obj\Debug\longestWord.pdb
