@@ -1,1 +1,5 @@
 C:\Users\WeCanCodeIT\Desktop\CodeEval challenges\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\WeCanCodeIT\Desktop\CodeEval challenges\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\WeCanCodeIT\Desktop\CodeEval challenges\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\WeCanCodeIT\Desktop\CodeEval challenges\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\WeCanCodeIT\Desktop\CodeEval challenges\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
