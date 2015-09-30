@@ -1,0 +1,5 @@
+C:\Users\WeCanCodeIT\Desktop\CodeEval challenges\swapCase\bin\Debug\swapCase.exe.config
+C:\Users\WeCanCodeIT\Desktop\CodeEval challenges\swapCase\bin\Debug\swapCase.exe
+C:\Users\WeCanCodeIT\Desktop\CodeEval challenges\swapCase\bin\Debug\swapCase.pdb
+C:\Users\WeCanCodeIT\Desktop\CodeEval challenges\swapCase\obj\Debug\swapCase.exe
+C:\Users\WeCanCodeIT\Desktop\CodeEval challenges\swapCase\obj\Debug\swapCase.pdb

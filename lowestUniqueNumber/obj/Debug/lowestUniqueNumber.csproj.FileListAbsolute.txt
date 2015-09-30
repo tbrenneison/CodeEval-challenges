@@ -1,0 +1,6 @@
+C:\Users\WeCanCodeIT\Desktop\CodeEval challenges\lowestUniqueNumber\bin\Debug\lowestUniqueNumber.exe.config
+C:\Users\WeCanCodeIT\Desktop\CodeEval challenges\lowestUniqueNumber\bin\Debug\lowestUniqueNumber.exe
+C:\Users\WeCanCodeIT\Desktop\CodeEval challenges\lowestUniqueNumber\bin\Debug\lowestUniqueNumber.pdb
+C:\Users\WeCanCodeIT\Desktop\CodeEval challenges\lowestUniqueNumber\obj\Debug\lowestUniqueNumber.csprojResolveAssemblyReference.cache
+C:\Users\WeCanCodeIT\Desktop\CodeEval challenges\lowestUniqueNumber\obj\Debug\lowestUniqueNumber.exe
+C:\Users\WeCanCodeIT\Desktop\CodeEval challenges\lowestUniqueNumber\obj\Debug\lowestUniqueNumber.pdb

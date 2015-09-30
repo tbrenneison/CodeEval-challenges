@@ -1,0 +1,6 @@
+C:\Users\WeCanCodeIT\Desktop\CodeEval challenges\emailValidation\bin\Debug\emailValidation.exe.config
+C:\Users\WeCanCodeIT\Desktop\CodeEval challenges\emailValidation\obj\Debug\emailValidation.csprojResolveAssemblyReference.cache
+C:\Users\WeCanCodeIT\Desktop\CodeEval challenges\emailValidation\bin\Debug\emailValidation.exe
+C:\Users\WeCanCodeIT\Desktop\CodeEval challenges\emailValidation\bin\Debug\emailValidation.pdb
+C:\Users\WeCanCodeIT\Desktop\CodeEval challenges\emailValidation\obj\Debug\emailValidation.exe
+C:\Users\WeCanCodeIT\Desktop\CodeEval challenges\emailValidation\obj\Debug\emailValidation.pdb
