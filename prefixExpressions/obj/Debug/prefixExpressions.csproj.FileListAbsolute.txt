@@ -1,0 +1,6 @@
+C:\Users\WeCanCodeIT\Desktop\CodeEval challenges\prefixExpressions\bin\Debug\prefixExpressions.exe.config
+C:\Users\WeCanCodeIT\Desktop\CodeEval challenges\prefixExpressions\obj\Debug\prefixExpressions.csprojResolveAssemblyReference.cache
+C:\Users\WeCanCodeIT\Desktop\CodeEval challenges\prefixExpressions\bin\Debug\prefixExpressions.exe
+C:\Users\WeCanCodeIT\Desktop\CodeEval challenges\prefixExpressions\bin\Debug\prefixExpressions.pdb
+C:\Users\WeCanCodeIT\Desktop\CodeEval challenges\prefixExpressions\obj\Debug\prefixExpressions.exe
+C:\Users\WeCanCodeIT\Desktop\CodeEval challenges\prefixExpressions\obj\Debug\prefixExpressions.pdb

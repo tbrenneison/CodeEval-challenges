@@ -1,0 +1,6 @@
+C:\Users\WeCanCodeIT\Desktop\CodeEval challenges\wordsToDigists\bin\Debug\wordsToDigists.exe.config
+C:\Users\WeCanCodeIT\Desktop\CodeEval challenges\wordsToDigists\bin\Debug\wordsToDigists.exe
+C:\Users\WeCanCodeIT\Desktop\CodeEval challenges\wordsToDigists\bin\Debug\wordsToDigists.pdb
+C:\Users\WeCanCodeIT\Desktop\CodeEval challenges\wordsToDigists\obj\Debug\wordsToDigists.csprojResolveAssemblyReference.cache
+C:\Users\WeCanCodeIT\Desktop\CodeEval challenges\wordsToDigists\obj\Debug\wordsToDigists.exe
+C:\Users\WeCanCodeIT\Desktop\CodeEval challenges\wordsToDigists\obj\Debug\wordsToDigists.pdb
