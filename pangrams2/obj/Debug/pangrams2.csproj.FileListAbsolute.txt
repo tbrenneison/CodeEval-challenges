@@ -1,0 +1,6 @@
+C:\Users\WeCanCodeIT\Desktop\CodeEval challenges\pangrams2\bin\Debug\pangrams2.exe.config
+C:\Users\WeCanCodeIT\Desktop\CodeEval challenges\pangrams2\bin\Debug\pangrams2.exe
+C:\Users\WeCanCodeIT\Desktop\CodeEval challenges\pangrams2\bin\Debug\pangrams2.pdb
+C:\Users\WeCanCodeIT\Desktop\CodeEval challenges\pangrams2\obj\Debug\pangrams2.csprojResolveAssemblyReference.cache
+C:\Users\WeCanCodeIT\Desktop\CodeEval challenges\pangrams2\obj\Debug\pangrams2.exe
+C:\Users\WeCanCodeIT\Desktop\CodeEval challenges\pangrams2\obj\Debug\pangrams2.pdb
