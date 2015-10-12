@@ -1,0 +1,6 @@
+C:\Users\WeCanCodeIT\Desktop\CodeEval challenges\hiddenDigits\bin\Debug\hiddenDigits.exe.config
+C:\Users\WeCanCodeIT\Desktop\CodeEval challenges\hiddenDigits\bin\Debug\hiddenDigits.exe
+C:\Users\WeCanCodeIT\Desktop\CodeEval challenges\hiddenDigits\bin\Debug\hiddenDigits.pdb
+C:\Users\WeCanCodeIT\Desktop\CodeEval challenges\hiddenDigits\obj\Debug\hiddenDigits.csprojResolveAssemblyReference.cache
+C:\Users\WeCanCodeIT\Desktop\CodeEval challenges\hiddenDigits\obj\Debug\hiddenDigits.exe
+C:\Users\WeCanCodeIT\Desktop\CodeEval challenges\hiddenDigits\obj\Debug\hiddenDigits.pdb

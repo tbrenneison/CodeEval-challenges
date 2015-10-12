@@ -1,0 +1,6 @@
+C:\Users\WeCanCodeIT\Desktop\CodeEval challenges\reverseGroups\bin\Debug\reverseGroups.exe.config
+C:\Users\WeCanCodeIT\Desktop\CodeEval challenges\reverseGroups\bin\Debug\reverseGroups.exe
+C:\Users\WeCanCodeIT\Desktop\CodeEval challenges\reverseGroups\bin\Debug\reverseGroups.pdb
+C:\Users\WeCanCodeIT\Desktop\CodeEval challenges\reverseGroups\obj\Debug\reverseGroups.csprojResolveAssemblyReference.cache
+C:\Users\WeCanCodeIT\Desktop\CodeEval challenges\reverseGroups\obj\Debug\reverseGroups.exe
+C:\Users\WeCanCodeIT\Desktop\CodeEval challenges\reverseGroups\obj\Debug\reverseGroups.pdb
